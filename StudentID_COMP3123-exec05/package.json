@@ -1,0 +1,12 @@
+{
+  "name": "comp3123-exec05",
+  "version": "1.0.0",
+  "description": "Fixed COMP3123 exercise 05",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
